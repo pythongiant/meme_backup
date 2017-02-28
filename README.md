@@ -6,7 +6,7 @@
 <li>run `python manage.py runserver`</li>
 <li> go to<https://127.0.0.1:8000/photos> on your browser</li>
 
-#3)To add memes
+#To add memes
 <li>Do the above but go to <https://127.0.0.1:8000/admin> This time</li>
 <li>Click on memess</li>
 <li>Click add a new meme </li>
